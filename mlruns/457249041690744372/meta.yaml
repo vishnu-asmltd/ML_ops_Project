@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/457249041690744372
+creation_time: 1755844982376
+experiment_id: '457249041690744372'
+last_update_time: 1755844982376
+lifecycle_stage: active
+name: train/casting_defect_model_v2

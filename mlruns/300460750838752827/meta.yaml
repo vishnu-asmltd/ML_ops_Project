@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/300460750838752827
+creation_time: 1755845729271
+experiment_id: '300460750838752827'
+last_update_time: 1755845729271
+lifecycle_stage: active
+name: train/Titanic_Random_forest_model

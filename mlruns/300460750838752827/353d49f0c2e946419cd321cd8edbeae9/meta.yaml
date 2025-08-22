@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/300460750838752827/353d49f0c2e946419cd321cd8edbeae9/artifacts
+end_time: 1755847930448
+entry_point_name: ''
+experiment_id: '300460750838752827'
+lifecycle_stage: active
+run_id: 353d49f0c2e946419cd321cd8edbeae9
+run_name: RandomForest_Titanic
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755847918608
+status: 3
+tags: []
+user_id: ASM9017
